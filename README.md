@@ -75,6 +75,7 @@ The system is evolving into the following layered structure:
    - Reranker comparison benchmarks  
 
 ## Repository Structure
+```bash
 ai_platform/
 ├── apps/
 │   ├── api/
@@ -103,7 +104,8 @@ ai_platform/
 ├── pyproject.toml
 ├── ROADMAP.md
 └── README.md
-text## Hardware Constraints
+```
+## Hardware Constraints
 
 **Current GPU**: RTX 3060 (6GB VRAM)
 
